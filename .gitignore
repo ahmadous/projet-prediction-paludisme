@@ -10,3 +10,4 @@ dist/
 # Pour les fichiers de logs
 *.log
 
+palu_detection.ipynb
